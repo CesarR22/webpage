@@ -3,4 +3,14 @@
     min-height: 100vh;
     display: flex;
     background-color: #6980FF;
+    .formulario{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem;
+        margin-top: 20px;
+        width: 100%;
+
+    }
 }
